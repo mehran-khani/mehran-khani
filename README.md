@@ -43,6 +43,4 @@ Firebase, Supabase, Rive.
 
 #### Reach
 
-<a href="https://www.linkedin.com/in/mehran-khanii/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:mehran.khani95wpo@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="22" alt="Gmail" /></a>
+[LinkedIn](https://www.linkedin.com/in/mehran-khanii/) · [Email](mailto:mehran.khani95wpo@gmail.com)
